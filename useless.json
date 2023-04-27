@@ -1,0 +1,33 @@
+{
+  "title": "The Useless JSON",
+  "author": "ChatGPT",
+  "date": "2023-04-27",
+  "content": [
+    {
+      "section_title": "Section 1",
+      "paragraphs": [
+        {
+          "text": "This is a useless JSON file.",
+          "notes": ""
+        },
+        {
+          "text": "It contains no useful information.",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "section_title": "Section 2",
+      "paragraphs": [
+        {
+          "text": "You could spend your time reading this file.",
+          "notes": ""
+        },
+        {
+          "text": "But it won't benefit you in any way.",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
